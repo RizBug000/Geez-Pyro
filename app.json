@@ -1,8 +1,8 @@
 {
-    "name": "Geez Pyro Userbot",
+    "name": "Ganz Userbot",
     "description": "UserBot BIASA AJAH !!!.",
     "logo": "https://telegra.ph/file/c78bb1efdeed38ee16eb2.png",
-    "keywords": ["telegram", "userbot", "Geez", "pyrogram"],
+    "keywords": ["telegram", "userbot", "Ganz", "pyrogram"],
     "repository": "https://github.com/hitokizzy/Geez-Pyro",
     "stack": "container",
     "env": {
